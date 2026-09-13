@@ -40,7 +40,7 @@ The system uses **OCR, rule-based compliance checking, and AI-assisted visual an
 
 Developed as a collaborative team project for **Smart India Hackathon 2026** at **KPR Institute of Engineering and Technology, Coimbatore**.
 
-### My Contribution
+### Overall Contribution of Us
 
 - Technical development
 - System workflow and architecture

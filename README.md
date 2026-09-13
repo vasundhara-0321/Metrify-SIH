@@ -1,56 +1,62 @@
-# Welcome to your Expo app 👋
+# METRIFY
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### Smart Package Compliance Verification System
 
-## Get started
+METRIFY is a software solution developed for **Smart India Hackathon 2026 (SIH26034)** to assist Legal Metrology officers in verifying declarations printed on pre-packaged commodities.
 
-1. Install dependencies
+The system uses **OCR, rule-based compliance checking, and AI-assisted visual analysis** to support faster package inspection.
 
-   ```bash
-   npm install
-   ```
+## Features
 
-2. Start the app
+- 📷 Product package scanning
+- 🔍 OCR-based text extraction
+- ⚙️ Automated compliance checking
+- 🤖 AI-assisted label tampering detection
+- 📋 Compliance result generation
+- 📸 Evidence capture
+- 📄 Inspection report generation
+- 📱 Mobile application
+- 🌐 Web-based management
 
-   ```bash
-   npx expo start
-   ```
+## Technology Stack
 
-In the output, you'll find options to open the app in a
+- React Native
+- Expo
+- React.js
+- Node.js
+- OCR
+- AI / Image Processing
+- Git & GitHub
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Problem Statement
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+**SIH26034**
 
-## Get a fresh project
+**Ministry:** Ministry of Consumer Affairs, Food & Public Distribution
 
-When you're ready, run:
+**Title:** Software System to Check Compliance of Packaged Commodities under the Legal Metrology (Packaged Commodities) Rules, 2011 by Scanning Products, Images and Labels
 
-```bash
-npm run reset-project
-```
+## Team Project
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Developed as a collaborative team project for **Smart India Hackathon 2026** at **KPR Institute of Engineering and Technology, Coimbatore**.
 
-### Other setup steps
+### My Contribution
 
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
+- Technical development
+- System workflow and architecture
+- SIH problem statement understanding and explanation
+- OCR and compliance workflow
+- AI-assisted tampering detection concept
+- Project presentation and technical explanation
 
-## Learn more
+## Project Status
 
-To learn more about developing your project with Expo, look at the following resources:
+🚧 Prototype under development.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## Vision
 
-## Join the community
+**Scan. Read. Verify. Report.**
 
-Join our community of developers creating universal apps.
+---
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+*Developed for Smart India Hackathon 2026.*
